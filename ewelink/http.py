@@ -69,9 +69,9 @@ class HttpClient:
             'version': 6,
             'nonce': nonce(),
             'os': 'iOS',
-            'model': 'iPhone10,6',
-            'romVersion': '11.1.2',
-            'appVersion': '3.5.3',
+            'model': 'iPhone 12 Pro Max',
+            'romVersion': '16.1.1',
+            'appVersion': '4.29.0',
             'imei': str(uuid.uuid4())
         } 
         if (
